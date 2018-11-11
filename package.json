@@ -1,0 +1,10 @@
+{
+  "name": "four-thirty-three",
+  "version": "1.0.0",
+  "description": "Everything we do is music",
+  "main": "4.33.js",
+  "scripts": {},
+  "keywords": ["4.33", "John Cage", "Music"],
+  "author": "22Infinite",
+  "license": "MIT"
+}
