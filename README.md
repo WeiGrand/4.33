@@ -2,4 +2,4 @@
 
 Inspired by [John Cage's 4'33"](https://www.youtube.com/watch?v=JTEFKFiXSx4)
 
-![](./JohnCage.png)
+![](https://raw.githubusercontent.com/WeiGrand/4.33/master/JohnCage.png)

@@ -1,10 +1,22 @@
 {
   "name": "four-thirty-three",
-  "version": "1.0.0",
+  "version": "4.3.3",
   "description": "Everything we do is music",
   "main": "4.33.js",
   "scripts": {},
-  "keywords": ["4.33", "John Cage", "Music"],
+  "keywords": [
+    "4.33",
+    "John Cage",
+    "Music"
+  ],
   "author": "22Infinite",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeiGrand/4.33.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WeiGrand/4.33/issues"
+  },
+  "homepage": "https://github.com/WeiGrand/4.33#readme"
 }
